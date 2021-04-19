@@ -1,0 +1,9 @@
+[26-Apr-2018 09:16:23 UTC] PHP Notice:  Undefined index: name in /home/hugoluna/public_html/androidcourse/formulario.php on line 8
+[26-Apr-2018 13:29:47 UTC] PHP Notice:  Undefined index: nombre in /home/hugoluna/public_html/androidcourse/formulario.php on line 8
+[26-Apr-2018 13:29:47 UTC] PHP Notice:  Undefined index: email in /home/hugoluna/public_html/androidcourse/formulario.php on line 9
+[26-Apr-2018 13:29:47 UTC] PHP Notice:  Undefined index: asunto in /home/hugoluna/public_html/androidcourse/formulario.php on line 10
+[26-Apr-2018 13:29:47 UTC] PHP Notice:  Undefined index: msj in /home/hugoluna/public_html/androidcourse/formulario.php on line 11
+[26-Apr-2018 13:29:48 UTC] PHP Notice:  Undefined index: nombre in /home/hugoluna/public_html/androidcourse/formulario.php on line 8
+[26-Apr-2018 13:29:48 UTC] PHP Notice:  Undefined index: email in /home/hugoluna/public_html/androidcourse/formulario.php on line 9
+[26-Apr-2018 13:29:48 UTC] PHP Notice:  Undefined index: asunto in /home/hugoluna/public_html/androidcourse/formulario.php on line 10
+[26-Apr-2018 13:29:48 UTC] PHP Notice:  Undefined index: msj in /home/hugoluna/public_html/androidcourse/formulario.php on line 11
